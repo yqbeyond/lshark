@@ -1,5 +1,5 @@
 # lshark
-a tiny packet capture using C.
+a tiny packet sniffer using C.
 
 ## lSniffer
 Run lSniffer as root.
